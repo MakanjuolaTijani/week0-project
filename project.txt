@@ -1,3 +1,2 @@
 Let's get the commit started
-
-mode 
+Mode
