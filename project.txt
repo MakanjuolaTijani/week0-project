@@ -1,1 +1,3 @@
 Let's get the commit started
+
+Merge conflict mode 
