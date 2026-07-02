@@ -1,1 +1,0 @@
-Here's me honing my git and GitHub skills via practice. I will be merging the folder which the file is resent to main and create merge conflict and resolve it as it's one of the issues developer faced in real-time project
